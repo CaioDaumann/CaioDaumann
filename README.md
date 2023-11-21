@@ -4,7 +4,7 @@ I am a Ph.D. candidate at RWTH Aachen in the field of High Energy Physics, where
 
 Currently, my primary projects involve:
 
-Correction of Simulation Mis-modeling: The CMS detector is a complex machine, and simulations of physical processes cannot account for everything that occurs within the detector. I am dedicated to correcting simulation inaccuracies to enhance the alignment with the observed data. To achieve this, we are employing auto-regressive neural spline flows.
+Correction of Simulation Mis-modeling: The CMS detector is a complex machine, and simulations of physical processes cannot account for everything that occurs within the detector. I am dedicated to correcting simulation inaccuracies to enhance the alignment with the observed data. To achieve this, we are employing conditional auto-regressive neural spline flows. 
 
 Early Run3 Higgs to gamma gamma Effort: I actively contribute to the development of the analysis framework HiggsDNA, a novel framework that fully utilizes columnar analysis for the Early Run3 Higgs to gamma gamma effort.
 
