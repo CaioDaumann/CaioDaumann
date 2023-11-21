@@ -9,6 +9,9 @@ I am working in corrections of the simulation to better match the data we observ
 
 I also take part in the Early Run3 Higgs to gamma gamma effort, where I work in the development of the analysis framework HiggsDNA a new framework that fully uses colunar analysis. 
 
+My other project is related to the classification of photon pairs. In the run2 analysis, a categorization in the mass resolution of the photon pair was made. We are exploring the possibiity of 
+using another type of categorization, such as a mvaID. At the moment we are evalauting how much improvement a simple BDT can bring to us. If the results are prommising we plan to start using more low input variables.
+
 
 
 <!---
