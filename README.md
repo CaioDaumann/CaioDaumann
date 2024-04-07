@@ -10,6 +10,7 @@ Early Run3 Higgs to gamma gamma Effort: I actively contribute to the development
  
 I have also recently joined the AutoDQM (Automatic Data Quality Management) team. AutoDQM functions as a tool designed for analyzing the performance of detectors within the CMS experiment. It employs anomaly detection algorithms, such as the beta-binomial statistical test, principal component analysis, and autoencoders, to identify anomalies in the detectors. The detected anomalies are flagged, enabling prompt resolution of issues and appropriate identification of data collected during detector malfunctions.
 
+I am also a tutor in the RWTH Deep learning course, and one of the organizers in the computing boot camp for junior reseraches in the institution.
 
 <!---
 CaioDaumann/CaioDaumann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
